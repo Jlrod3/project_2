@@ -64,6 +64,7 @@ ul {
 }
 
 /* food page css */
+
 img {
   height: 100px;
   width: 150px;
@@ -98,6 +99,7 @@ img:hover {
 }
 
 /* index page css */
+
 #resume {
   margin-left: 15%;
   margin-right: 15%;
@@ -124,15 +126,23 @@ img:hover {
 }
 
 /* Music page css*/
+
 #musicbackground {
   background-color: gray;
 }
 
-#musichead h1{
+#musichead {
+  background-color: rgb(36, 35, 35);
+  margin: 10px 10px;
+  padding: 10px;
+  margin: 2.5%;
+}
+
+#musicbackground h1{
   color:#fff;
 }
 
-#musichead p{
+#musicbackground p{
   color:#fff;
 
 }
