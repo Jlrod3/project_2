@@ -88,6 +88,13 @@ img :hover {
 
 }
 
+.foodtop {
+  background-color: burlywood;
+  margin: 10px 10px;
+  float: top;
+  padding: 10px;
+}
+
 /* index page css */
 #resume {
   margin-left: 15%;
