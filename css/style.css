@@ -40,7 +40,7 @@
 }
 
 body {
-  text-align: center;
+  text-align:center;
   margin: 20%;
 }
 
@@ -64,7 +64,21 @@ img :hover {
   width: 30%;
 }
 
-/* food page css */
+/* index page css */
 #resume {
-  margin: 10%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 0%;
+  text-align: left;
+  background-color: rgb(239, 151, 151);
+  padding: 20px;
+
+}
+
+#resume h1 {
+  text-align: center;
+}
+
+#resumebackground {
+  background-color: rgb(216, 242, 229);
 }
