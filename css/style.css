@@ -164,14 +164,13 @@ img:hover {
   width: 30%;
   background-color: rgb(53, 135, 24);
   margin: 0 2.5%;
-
 }
 
 #song3 {
   float: left;
   width: 30%;
   background-color: rgb(157, 134, 2);
-  margin 0 2.5% 0 0;
+  margin: 0 2.5% 0 0;
 }
 
 iframe {
