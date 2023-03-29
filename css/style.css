@@ -39,6 +39,11 @@
   
 }
 
+body {
+  text-align: center;
+  margin: 20%;
+}
+
 /* food page css */
 img {
   min-height: 50px;
