@@ -31,13 +31,23 @@
   color: #fff;
   text-decoration: none;
   font-family: 'Fjalla One', sans-serif;
+  font-size: 30px;
 }
 
 #main-navbar ul li a:hover {
   background-color: rgb(53, 135, 24);
+  
 }
 
-
+/* food page css */
 img {
-  size-adjust: 
+  min-height: 50px;
+  min-width: 75px;
+  max-height: 100px;
+  max-height: 150px;
+}
+
+img :hover {
+  width: 200px;
+  height: 300px;
 }
