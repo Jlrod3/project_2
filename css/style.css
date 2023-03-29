@@ -144,13 +144,18 @@ img:hover {
 
 #musicbackground p{
   color:#fff;
+  padding: 10px;
+}
 
+#musicbackground h3{
+  color:#fff;
+  padding: 10px;
 }
 
 #song1 {
   float: left;
   width: 30%; 
-  background-color: rgb(245, 115, 115);
+  background-color: rgb(234, 75, 75);
   margin: 0 0 0 2.5%;
 }
 
@@ -165,7 +170,7 @@ img:hover {
 #song3 {
   float: left;
   width: 30%;
-  background-color: rgb(255, 238, 140);
+  background-color: rgb(157, 134, 2);
   margin 0 2.5% 0 0;
 }
 
