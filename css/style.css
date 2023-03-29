@@ -79,8 +79,7 @@ img :hover {
 .foodchunk {
   background-color: burlywood;
   margin: 20px 10px;
-  float: ;
-  width: 30%;
+  float: left;
 }
 
 /* index page css */
