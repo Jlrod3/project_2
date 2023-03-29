@@ -124,3 +124,28 @@ img:hover {
 }
 
 /* Music page css*/
+#musicbackground {
+  background-color: gray;
+}
+
+#musichead {
+
+}
+
+#song1 {
+  float: left;
+  width: auto; 
+  background-color: red;
+}
+
+#song2 {
+  float: left;
+  width: auto;
+  background-color: green;
+}
+
+#song3 {
+  float: left;
+  width: auto;
+  background-color: gold;
+}
