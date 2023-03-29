@@ -82,3 +82,7 @@ img :hover {
 #resumebackground {
   background-color: rgb(216, 242, 229);
 }
+
+.resumechunk {
+  border 10px white;
+}
