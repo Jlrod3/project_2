@@ -128,24 +128,38 @@ img:hover {
   background-color: gray;
 }
 
-#musichead {
+#musichead h1{
+  color:#fff;
+}
+
+#musichead p{
+  color:#fff;
 
 }
 
 #song1 {
   float: left;
-  width: auto; 
-  background-color: red;
+  width: 30%; 
+  background-color: rgb(245, 115, 115);
+  margin: 0 0 0 2.5%;
 }
 
 #song2 {
   float: left;
-  width: auto;
-  background-color: green;
+  width: 30%;
+  background-color: rgb(53, 135, 24);
+  margin: 0 2.5%;
+
 }
 
 #song3 {
   float: left;
-  width: auto;
-  background-color: gold;
+  width: 30%;
+  background-color: rgb(255, 238, 140);
+  margin 0 2.5% 0 0;
+}
+
+iframe {
+  width: 80%;
+  height: auto;
 }
