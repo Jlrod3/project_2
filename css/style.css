@@ -88,11 +88,14 @@ img :hover {
 
 }
 
-.foodtop {
+#foodtop {
   background-color: burlywood;
   margin: 10px 10px;
-  float: top;
   padding: 10px;
+}
+
+#foodbackground {
+  background-color: rgb(163, 231, 231);
 }
 
 /* index page css */
