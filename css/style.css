@@ -56,3 +56,15 @@ img :hover {
   width: 200px;
   height: 300px;
 }
+
+.foodchunk {
+  background-color: burlywood;
+  margin: 20px 10px;
+  float: ;
+  width: 30%;
+}
+
+/* food page css */
+#resume {
+  margin: 10%;
+}
